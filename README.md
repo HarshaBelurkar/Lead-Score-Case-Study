@@ -34,3 +34,6 @@ Detailed Steps Followed while building the model
 8. The optimal cut off was 0.35 so we have considered it as a cut off probability
 9. Make predictions on test data and using the same threshold value of 0.35 predicted if the lead is converted or not.
 Adding of a lead score column to the final model which is populated by multiplying the conversion probability value with 100 so that we get the score between 0-100.
+
+
+Kaggle url:https://www.kaggle.com/harshabelurkar/lead-scoring-case-study
